@@ -3,7 +3,7 @@ color:
   primary: 1cabb0  # Teal
   secondary: 257394  # Blue
   secondary-dark: 4910bc # Purple
-  muted: black
+  muted: 0
 
 # Font Families
 font:
