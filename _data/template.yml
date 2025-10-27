@@ -1,11 +1,11 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: bed7d5 # Light Teal
-  secondary: 1cabb0  # Teal
-  secondary-dark: b7a0e7 # Light Purple
-  muted: 777 # 4910bc
+  primary: 1cabb0  # Teal
+  secondary: 257394  # Blue
+  secondary-dark: 4910bc # Purple
+  muted: black
 
 # Font Families
 font:
-  primary: 'Poppins, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: 'Poppins, "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'Poppins'#, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: 'Poppins'#, "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
