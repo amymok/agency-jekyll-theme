@@ -172,10 +172,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #ebdcf9;
 }
 
 .navbar-default .navbar-brand {
+    padding-top: 0;
+    vertical-align: top;
     font-family: "Poppins","Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
